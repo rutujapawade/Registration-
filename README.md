@@ -1,6 +1,6 @@
-# Simple Registration Page 🚀
+# Simple Registration Page 
 
-Yeh ek responsive registration page hai jo HTML, CSS, aur JavaScript se bana hai.
+This is  responsive registration page - using HTML, CSS & JavaScript 
 
 ### Features:
 * Dark/Light clean UI.
